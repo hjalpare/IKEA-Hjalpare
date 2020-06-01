@@ -74,9 +74,9 @@ Then nothing should be returned in the search results.
 
 ## Scrum Roles
 
-DevOps/Product Owner/Scrum Master: Taylor O’Black
-Frontend Developer: Chris Herman
-Integration Developer: Puran Kansakar
+DevOps/Product Owner/Scrum Master: Taylor O’Black.
+Frontend Developer: Chris Herman.
+Integration Developer: Puran Kansakar.
 
 ## Weekly Meeting
 
