@@ -1,5 +1,13 @@
 # IKEA-Hjalpare
 
+Design Document
+
+Taylor O’Black
+Puran Kansakar
+Chris Herman
+
+## Introduction
+
 
 ## Class Diagram
 ![](images/class_diagram.PNG)
