@@ -12,8 +12,8 @@
 
 **Furniture:** Noun class that represents the furniture.
 
-**Specimen:** Noun class that represents Instructions.
+**Intructions:** Noun class that represents Instructions.
 
-**IFunitureDAO:** Interface for Retrofit to find and parse Instructions JSON.
+**IFurnitureDAO:** Interface for Retrofit to find and parse Instructions JSON.
 
 **IIntructionsDAO:** Interface for Room store Instructions data
