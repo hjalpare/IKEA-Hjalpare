@@ -35,7 +35,9 @@ YouTube videos are public
 
 ### Example
 1.1 Given a feed of IKEA data is available
+
 When I search for “Alex”
+
 Then I should be directed to a page with a picture of the ALEX drawer and a discussion board for this item.
 
 1.2 Given feeds of IKEA and YouTube data are available
