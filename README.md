@@ -2,10 +2,8 @@
 
 Design Document
 
-Taylor O’Black
-
-Puran Kansakar
-
+Taylor O’Black\
+Puran Kansakar\
 Chris Herman
 
 ## Introduction
@@ -30,7 +28,7 @@ With IKEA hjälpare, you can:
 As an IKEA customer, I want access to more detailed instructions so that I can build my furniture relatively stress free and quickly. 
 
 ### Dependencies
-Video tutorials are available for public access 
+Video tutorials are available for public access\ 
 Ikea data is available 
 
 ### Assumptions
@@ -39,22 +37,18 @@ YouTube videos are public
 ### Example
 **1.1 Given a feed of IKEA data is available**
 
-When I search for “Alex”
-
+When I search for “Alex”\
 Then I should be directed to a page with a picture of the ALEX drawer and a discussion board for this item.
 
 **1.2 Given feeds of IKEA and YouTube data are available**
 
-When I search for “Malm”
-
+When I search for “Malm”\
 Then I should be directed to a page with a picture of the MALM bed frame, an embedded YouTube link for the building tutorial, and a 
-
 discussion board post for this item.
 
 **1.3 Given a feed IKEA is available**
 
-When I search for “3478410”
-
+When I search for “3478410”\
 Then nothing should be returned in the search results.
 
 ## Class Diagram
@@ -85,7 +79,7 @@ Then nothing should be returned in the search results.
 
 DevOps/Product Owner/Scrum Master: Taylor O’Black\
 Frontend Developer: Chris Herman\
-Integration Developer: Puran Kansakar\
+Integration Developer: Puran Kansakar
 
 ## Weekly Meeting
 
