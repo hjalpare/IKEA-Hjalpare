@@ -2,5 +2,5 @@
 
 
 ## Class Diagram
-![](images/class_diagram.png)
+![](images/class_diagram.PNG)
 ### Class Diagram Description
